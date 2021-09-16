@@ -23,7 +23,7 @@ while True:
 
             if num == 1:
 
-                out.write(str(path) + ',')
+                out.write(str(path) + '\n')
 
                 if to_test % 500 == 0:
                     print(to_test)
