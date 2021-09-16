@@ -13,7 +13,7 @@ while True:
 
     while True:
 
-        if num == 4:
+        if num == 1:
             if to_test % 1000 == 0:
                 print(f"{to_test / 1000}K")
             to_test += 1
